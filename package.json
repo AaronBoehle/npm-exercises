@@ -18,5 +18,8 @@
   "description": "",
   "dependencies": {
     "@babel/core": "^7.2.2"
+  },
+  "scripts": {
+    "build": "webpack"
   }
 }
